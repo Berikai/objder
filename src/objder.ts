@@ -3,7 +3,7 @@ import { dirToObject, objectToDir } from './lib/converter';
 /**
  * Objder is a simple json file organizer that splits json data into folders.
  */
-module.exports = class Objder {
+export class Objder {
 
     /** 
      * Create a new Objder object. 

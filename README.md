@@ -16,7 +16,7 @@ npm i objder
 
 ```ts
 // Import Objder module.
-import * as Objder from 'objder'
+import { Objder } from 'objder'
 
 // Create a new Objder object.
 const objder = new Objder({$red:{green:{blue:"Hello World!"}}})
