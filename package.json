@@ -1,0 +1,34 @@
+{
+  "name": "objder",
+  "version": "1.0.0",
+  "description": "Yet another JSON management",
+  "main": "dist/objder.js",
+  "types": "dist/objder.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "devDependencies": {
+    "@types/glob": "^8.0.1",
+    "@types/node": "^18.11.18"
+  },
+  "dependencies": {
+    "glob": "^8.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berikai/objder.git"
+  },
+  "keywords": [
+    "database",
+    "json",
+    "javascript",
+    "typescript",
+    "library"
+  ],
+  "author": "Berikai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/berikai/objder/issues"
+  },
+  "homepage": "https://github.com/berikai/objder#readme"
+}
