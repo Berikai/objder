@@ -1,6 +1,6 @@
 {
   "name": "objder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Yet another JSON management",
   "main": "dist/objder.js",
   "types": "dist/objder.d.ts",
